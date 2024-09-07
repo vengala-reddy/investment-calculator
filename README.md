@@ -1,6 +1,16 @@
 # InvestmentCalculator
+This project is an investment calculator application built using modern Angular features for calculating investment returns. This project leverages the latest capabilities of Angular 18 to provide a robust and efficient investment calculation solution.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
+
+## Features
+
+- **Signals**: Used for reactive state management.
+- **Standalone Components**: Simplifies component creation and usage.
+- **Input/Output**: Facilitates communication between components.
+- **Inject**: Modern dependency injection mechanism.
+- **Form Handling**: Collects user input for investment details.
+- **Table Display**: Shows calculated investment returns in a tabulated format.
 
 ## Development server
 
